@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Contacto</string>
+    <string name="titulo">NUEVO CONTACTO</string>
+    <string name="tnombre">Nombre Completo: </string>
+    <string name="tfecha">Feha de Nacimiento: </string>
+    <string name="ttelefono">Telefono: </string>
+    <string name="temail">Email: </string>
+    <string name="tdescripcion">Descripcion del Contacto: </string>
+    <string name="button">Fecha de Nacimiento</string>
+    <string name="nombre">Fernando Ivan Lagunas Ayala </string>
+    <string name="fecha">20/08/1987 </string>
+    <string name="telefono">7471221480</string>
+    <string name="email">fernie124@gmail.com </string>
+    <string name="descripcion">Es la mejor persona que conozco: </string>
+    <string name="siguiente">SIGUIENTE </string>
+    <string name="pnombre">nombre </string>
+    <string name="pfecha">fecha </string>
+    <string name="ptelefono">telefono </string>
+    <string name="pemail">email </string>
+    <string name="pdescripcion">descripcion </string>
+    <string name="editardatos">Editar Datos </string>
+
+
+</resources>
